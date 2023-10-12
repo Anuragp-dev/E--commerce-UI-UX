@@ -1,0 +1,25 @@
+
+
+.main-card{
+    width: 100%;
+    height: auto;
+    padding: 3rem;
+    margin-top: -3rem;
+    margin-left: 2rem;
+   
+
+}
+.second-card{
+    display: flex;
+    margin-left: 3rem;
+}
+
+.para{
+    margin-top: 1rem;
+}
+
+
+.head{
+    display: flex;
+    
+}

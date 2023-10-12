@@ -1,0 +1,139 @@
+body {
+
+  overflow-x: hidden; /* Hide horizontal scrollbar */
+}
+
+.App-mycard {
+
+ 
+    margin-left: 23rem;
+    overflow: hidden;
+ 
+}
+
+
+
+
+.product-image {
+    width: 100%;
+    height: 16em;
+    object-fit: cover;
+    border-radius: 35px;
+  }
+  
+  .card1 {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    height: 29rem;
+    width: 290px;
+    margin: auto 3rem;
+    text-align: center;
+    border-radius: 30px;
+  }
+  
+  .price {
+    color: grey;
+    font-size: 22px;
+    margin-left: -13rem;
+  }
+  
+  .subprice{
+    color: rgb(49, 135, 238);
+    margin-top: -28px;
+    margin-left: -6rem;
+  }
+
+  .font1{
+    margin-top: 18px;
+    margin-left: 25px;
+  }
+  .btn11{
+    border: none;
+    margin-top: 1rem;
+    margin-left: -11rem;
+  }
+  .btn22{
+    margin-top: -2rem;
+    margin-right: -6rem;
+  }
+
+  .ava{
+    margin-left: -45px;
+    margin-top: 12px;
+  }
+
+
+
+
+
+  .custom-right-arrow {
+    position: absolute !important;
+    right: 30px;
+    z-index: 1;
+    border: 1px solid grey;
+    border-width: 0 3px 3px 0;
+    display: inline-block;
+    padding: 6px;
+    opacity: 0.8;
+    cursor: pointer;
+    transform: rotate(-45deg);
+  }
+  .custom-right-arrow:hover {
+    opacity: 1;
+  }
+  .custom-left-arrow {
+    position: absolute !important;
+    left: 30px;
+    z-index: 1;
+    border: 1px solid grey;
+    border-width: 0 3px 3px 0;
+    display: inline-block;
+    padding: 6px;
+    opacity: 0.8;
+    cursor: pointer;
+    transform: rotate(135deg);
+  }
+  .custom-left-arrow {
+    opacity: 1;
+  }
+
+ 
+  
+  .custom-button-group {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    height: 50px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    right: 0;
+    margin-bottom: -51rem;
+    margin-left: -35rem;
+  }
+
+
+  
+ 
+
+.all-text {
+  overflow: hidden;
+}
+
+
+.classif {
+  margin-left: -69rem;
+    margin-top: 6rem;
+    margin-bottom: -11rem;
+}
+
+
+
+.explore1 {
+ 
+  margin-left: -69.5rem;
+  margin-top: 19rem;
+  margin-bottom: -20rem;
+}
+
+
+
