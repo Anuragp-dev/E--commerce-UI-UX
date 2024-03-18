@@ -5,7 +5,7 @@ import "./Css/Mycard.css";
 const CustomLeftArrow = ({ onClick }) => (
   <i onClick={() => onClick()} className="custom-left-arrow" />
   
-  
+  // slider 
 );
 const CustomRightArrow = ({ onClick }) => {
   return <i className="custom-right-arrow" onClick={() => onClick()} />;
