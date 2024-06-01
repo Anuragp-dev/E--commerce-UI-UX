@@ -4,8 +4,7 @@ import "./Css/Footer.css";
 const Footer = () => {
   return (
 
-
-
+// footer component 
     
     <div className='All-footer'>
         <footer class="footer ">
