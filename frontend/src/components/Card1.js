@@ -1,7 +1,7 @@
 import React from 'react'
 import "../components/Css/Card1.css"
 
-// cards
+// card
 const Card1 = () => {
   return (
     
